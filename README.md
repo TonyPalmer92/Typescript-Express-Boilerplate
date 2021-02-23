@@ -48,3 +48,10 @@ npm run dev:start (with Nodemon)
 ```
 npm run build
 ```
+
+## Package Documentation
+
+- [Typescript](https://www.typescriptlang.org/)
+- [TypeORM](https://typeorm.io/#/)
+- [Morgan](https://github.com/expressjs/morgan#readme)
+- [Helmet](https://helmetjs.github.io/)

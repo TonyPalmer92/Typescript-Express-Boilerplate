@@ -1,7 +1,7 @@
 {
-  "name": "new-typeorm-project",
-  "version": "0.0.1",
-  "description": "Awesome project developed with TypeORM.",
+  "name": "enter-app-name",
+  "version": "1.0.0",
+  "description": "ENTER APP DESCRIPTION",
   "dependencies": {
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
